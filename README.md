@@ -159,3 +159,6 @@ Note: You can access morph web by visiting **{ip of sever}/morph/login/**
 service install 
 ```
 - Open **window services** and find **wildfly** from the list of service, change it property to automatically start.
+
+Note: you may find a pdf format of this readme file in instructions folder of this repository
+### 
